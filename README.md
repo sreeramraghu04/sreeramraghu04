@@ -31,9 +31,13 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sreeramraghu04&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sreeramraghu04&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramraghu04&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramraghu04&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -43,12 +47,17 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🏆 GitHub Trophies
 
-![Snake animation](https://raw.githubusercontent.com/sreeramraghu04/sreeramraghu04/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sreeramraghu04&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🐍 Contribution Snake
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sreeramraghu04&theme=tokyonight)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sreeramraghu04/sreeramraghu04/output/github-contribution-grid-snake-dark.svg" />
+</p>
+

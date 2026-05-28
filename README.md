@@ -31,9 +31,9 @@
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sreeramraghu04\&show_icons=true\&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=sreeramraghu04&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramraghu04\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreeramraghu04&layout=compact&theme=tokyonight)
 
 ---
 
@@ -51,4 +51,4 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=sreeramraghu04\&theme=tokyonight)
+![Trophies](https://github-profile-trophy.vercel.app/?username=sreeramraghu04&theme=tokyonight)
